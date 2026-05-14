@@ -1,0 +1,501 @@
+﻿Data,Regione,Prodotto,Segmento,Unità_Vendute,Prezzo_Unitario,Costo_Unitario,Spesa_Marketing,Contatti_Marketing
+2023-06-12,Sud,Prodotto D,Small Business,90,405.1,76.34,1242.46,434
+2023-07-18,Ovest,Prodotto B,Small Business,50,256.46,185.12,1620.91,258
+2024-07-12,Est,Prodotto B,Small Business,31,88.42,17.37,4213.39,95
+2023-04-27,Nord,Prodotto C,Small Business,86,256.79,173.57,1428.53,152
+2023-05-22,Centro,Prodotto B,Mid-Market,65,223.86,248.99,2205.18,290
+2023-09-01,Centro,Prodotto A,Enterprise,7,319.72,130.04,2095.39,257
+2023-02-24,Sud,Prodotto A,Enterprise,92,240.91,210.18,1139.57,138
+2023-05-08,Ovest,Prodotto B,Small Business,44,107.78,122.82,3130.4,367
+2024-06-16,Sud,Prodotto B,Mid-Market,38,207.58,199.36,2387.54,400
+2023-02-08,Est,Prodotto D,Mid-Market,88,317.74,71.42,3117.88,552
+2024-11-08,Centro,Prodotto D,Enterprise,94,473.84,17.8,1952.82,818
+2024-04-10,Sud,Prodotto B,Small Business,46,13.27,134.45,3280.97,618
+2024-08-08,Ovest,Prodotto A,Enterprise,66,249.9,179.64,2192.89,753
+2023-11-25,Sud,Prodotto B,Small Business,6,452.95,203.13,2026.61,467
+2023-11-21,Nord,Prodotto D,Enterprise,34,380.77,14.14,3067.61,181
+2024-10-10,Centro,Prodotto C,Mid-Market,93,219.77,119.93,841.37,661
+2024-10-02,Nord,Prodotto D,Enterprise,91,208.15,5.26,4218.24,914
+2024-06-13,Nord,Prodotto B,Small Business,48,342.65,217.25,2979.65,824
+2024-03-25,Sud,Prodotto B,Enterprise,50,50.83,196.44,4129.99,924
+2023-07-21,Centro,Prodotto C,Small Business,81,309.56,95.07,4744.28,133
+2023-06-12,Est,Prodotto D,Enterprise,42,188.2,228.63,4983.99,438
+2024-03-12,Centro,Prodotto C,Small Business,38,229.06,26.97,481.07,724
+2023-09-21,Est,Prodotto C,Small Business,72,10.06,34.16,1080.24,409
+2023-08-28,Sud,Prodotto A,Enterprise,48,170.99,230.12,3316,237
+2024-05-16,Nord,Prodotto B,Enterprise,78,94.22,157.47,4192.42,603
+2024-10-29,Ovest,Prodotto D,Mid-Market,81,110.46,131.33,3907.97,440
+2024-11-26,Est,Prodotto C,Enterprise,46,138.55,36.74,103.46,508
+2024-04-10,Nord,Prodotto A,Small Business,88,398.57,231.24,862.28,214
+2023-08-14,Sud,Prodotto C,Enterprise,59,309.84,88.72,2638.76,323
+2024-04-05,Sud,Prodotto B,Enterprise,27,20.68,128.54,1391.28,806
+2023-03-15,Centro,Prodotto D,Enterprise,30,163.4,165.95,251.75,332
+2024-06-08,Est,Prodotto C,Enterprise,19,402.48,212.57,3960.45,364
+2024-03-24,Ovest,Prodotto B,Enterprise,89,68.33,107.25,2332.61,746
+2024-11-17,Est,Prodotto A,Mid-Market,84,17.75,175.56,960.53,879
+2024-08-23,Est,Prodotto D,Enterprise,91,282.77,102.98,503.3,428
+2023-04-05,Est,Prodotto D,Small Business,41,97.05,114.67,1314.68,784
+2024-05-14,Nord,Prodotto B,Enterprise,81,80.15,138.01,861.38,596
+2024-01-04,Ovest,Prodotto A,Mid-Market,97,245.25,75.85,4829.17,411
+2024-04-03,Sud,Prodotto B,Enterprise,24,380.7,46.26,4002.79,108
+2023-07-16,Sud,Prodotto D,Mid-Market,64,336.64,33.26,1101.89,268
+2024-05-13,Centro,Prodotto B,Mid-Market,16,495.49,177.9,3234.87,717
+2024-01-22,Ovest,Prodotto B,Small Business,66,349.12,83.62,4653.16,832
+2024-08-21,Est,Prodotto D,Enterprise,43,313.13,210.52,265.95,102
+2024-06-24,Ovest,Prodotto B,Enterprise,40,325.49,48,612.1,662
+2023-04-11,Ovest,Prodotto D,Enterprise,36,353.91,140.04,1008.6,319
+2023-03-21,Sud,Prodotto C,Enterprise,51,43.78,235.73,2176.93,888
+2024-03-15,Nord,Prodotto A,Enterprise,68,327.71,249.46,4322.53,680
+2023-06-02,Ovest,Prodotto C,Enterprise,93,467.65,87.61,2058.04,330
+2024-01-29,Ovest,Prodotto C,Enterprise,78,156.98,176.09,3807.52,290
+2024-03-09,Nord,Prodotto D,Enterprise,15,188.05,165.42,1929.32,352
+2023-02-24,Centro,Prodotto D,Small Business,91,146.74,149.45,1174.86,598
+2024-01-07,Centro,Prodotto A,Enterprise,61,243.66,146.14,238.38,196
+2024-11-17,Ovest,Prodotto C,Enterprise,54,220.98,15.73,4123.31,299
+2023-04-28,Nord,Prodotto B,Small Business,24,330.83,30.01,3033.27,327
+2023-03-29,Sud,Prodotto C,Small Business,33,446.68,117.03,1627.38,158
+2024-10-13,Est,Prodotto B,Small Business,22,86.92,144.74,4230.55,639
+2023-04-20,Ovest,Prodotto A,Mid-Market,86,46.54,80.42,2870.69,789
+2024-09-03,Sud,Prodotto A,Small Business,39,166.54,179.75,3862.83,136
+2024-06-01,Est,Prodotto D,Enterprise,2,35.94,128.18,469.38,808
+2024-10-22,Est,Prodotto B,Enterprise,60,361.79,13.85,2383.3,430
+2024-07-29,Est,Prodotto A,Mid-Market,14,18.01,129.45,1900.24,849
+2023-05-25,Ovest,Prodotto D,Small Business,62,90.35,84.09,4716.16,171
+2024-10-12,Nord,Prodotto C,Mid-Market,45,37.4,224.89,985.68,781
+2023-05-26,Ovest,Prodotto D,Mid-Market,26,103.91,99.78,2325.66,287
+2024-08-25,Nord,Prodotto B,Mid-Market,32,463.59,71.02,3180.13,649
+2023-05-31,Nord,Prodotto C,Enterprise,34,64.49,154.33,2932.78,411
+2023-01-27,Nord,Prodotto D,Enterprise,49,42.97,54.67,3184.09,229
+2023-01-26,Sud,Prodotto C,Mid-Market,1,351.86,16.64,1141.96,179
+2023-04-23,Ovest,Prodotto A,Small Business,1,403.76,44.79,1310.61,654
+2024-06-01,Centro,Prodotto A,Mid-Market,39,181.1,82.64,1130.58,170
+2024-02-14,Nord,Prodotto A,Enterprise,48,321.3,130.11,4236.33,777
+2024-05-07,Sud,Prodotto D,Enterprise,21,78.9,75.47,4754.05,638
+2024-06-04,Ovest,Prodotto D,Small Business,59,124.96,70.78,2336.79,164
+2024-10-06,Nord,Prodotto B,Small Business,75,247.89,113.27,400.05,202
+2023-03-28,Nord,Prodotto D,Mid-Market,56,233.8,23.25,206.83,474
+2023-11-30,Sud,Prodotto B,Mid-Market,85,477.29,162.37,4853.54,453
+2023-10-26,Centro,Prodotto A,Small Business,76,403.48,108.74,3159.58,215
+2024-10-19,Nord,Prodotto C,Enterprise,6,364.04,17.87,3775.11,322
+2024-04-17,Est,Prodotto B,Mid-Market,97,33.11,109.12,3104.55,351
+2023-03-05,Nord,Prodotto A,Enterprise,28,431.14,211.86,3787.9,712
+2023-03-13,Sud,Prodotto A,Enterprise,52,22.91,78.22,477.41,231
+2024-08-01,Centro,Prodotto A,Mid-Market,70,391.73,92.07,2529.93,157
+2023-06-23,Ovest,Prodotto C,Enterprise,8,431.5,90.05,4810.14,484
+2023-05-25,Est,Prodotto C,Enterprise,74,187.94,60.89,1967.41,364
+2024-07-21,Ovest,Prodotto D,Mid-Market,54,121.28,41.87,2517.08,734
+2024-04-28,Sud,Prodotto D,Small Business,9,294.81,37.98,1930.81,76
+2024-06-09,Sud,Prodotto A,Mid-Market,22,437.04,47.62,689.05,139
+2024-07-21,Centro,Prodotto D,Small Business,48,392.95,105.11,2662.67,726
+2023-06-02,Sud,Prodotto B,Enterprise,83,286.92,131.8,4446.6,585
+2024-03-18,Sud,Prodotto A,Enterprise,9,404.27,37.99,3115.97,730
+2023-05-04,Sud,Prodotto B,Mid-Market,18,128.15,63.59,986.64,718
+2024-03-01,Nord,Prodotto A,Small Business,50,167.4,68.84,4821.61,715
+2024-11-18,Centro,Prodotto A,Mid-Market,1,248.68,148.99,621.87,550
+2024-11-02,Est,Prodotto C,Mid-Market,43,301.77,158.88,299.37,31
+2024-04-26,Nord,Prodotto C,Mid-Market,6,157.7,123.84,4573.38,173
+2023-01-03,Centro,Prodotto C,Mid-Market,33,295.63,248.94,1772.72,346
+2023-09-11,Nord,Prodotto C,Mid-Market,43,102.26,10.56,200.4,120
+2023-01-24,Centro,Prodotto A,Small Business,33,135.78,31.36,3988.6,252
+2023-03-04,Centro,Prodotto C,Enterprise,22,139.55,194.42,4686.58,958
+2023-11-12,Centro,Prodotto C,Mid-Market,86,457.52,167.35,1350.61,742
+2023-10-03,Ovest,Prodotto D,Small Business,72,326.55,72.33,3504.68,155
+2024-07-08,Nord,Prodotto D,Small Business,35,30.66,27.42,1595.71,943
+2023-09-17,Centro,Prodotto C,Mid-Market,96,465.7,109.6,3920.54,289
+2023-02-26,Sud,Prodotto B,Enterprise,11,178.38,190.42,3029.35,667
+2024-10-21,Centro,Prodotto B,Mid-Market,45,320.48,162.99,2986.01,300
+2023-01-04,Est,Prodotto D,Enterprise,18,296.58,11.06,472.32,467
+2024-06-09,Centro,Prodotto B,Enterprise,80,99.97,173.41,4654.18,465
+2024-06-02,Centro,Prodotto A,Small Business,76,206.56,113.11,1332.12,368
+2024-09-20,Sud,Prodotto B,Small Business,61,317.16,142.46,3905.22,684
+2024-08-09,Sud,Prodotto C,Mid-Market,57,178.85,126.57,1157.96,991
+2024-07-17,Sud,Prodotto C,Small Business,80,263.68,65.28,602.06,667
+2024-04-25,Ovest,Prodotto D,Mid-Market,6,321.53,245.23,4049.06,367
+2023-06-24,Centro,Prodotto A,Mid-Market,69,184.47,46.56,4286.95,87
+2023-12-20,Est,Prodotto C,Mid-Market,14,419.01,158.7,4216.86,184
+2023-09-16,Ovest,Prodotto C,Mid-Market,38,197.63,153.3,3786.08,580
+2024-05-20,Centro,Prodotto A,Mid-Market,95,205.82,222.69,3434.93,689
+2024-05-16,Ovest,Prodotto A,Enterprise,21,455.42,158.15,4374.58,220
+2024-02-03,Sud,Prodotto D,Enterprise,86,422.7,137.28,1734.52,751
+2024-02-09,Ovest,Prodotto A,Mid-Market,76,343.25,142.17,2432.68,840
+2024-05-18,Est,Prodotto C,Small Business,67,99.99,56.52,1126.99,90
+2023-08-18,Sud,Prodotto B,Small Business,55,367.79,83.23,1783.08,352
+2023-08-06,Nord,Prodotto D,Mid-Market,29,480.37,60.57,3348.5,610
+2024-01-23,Est,Prodotto A,Enterprise,8,244.84,207.17,3488.65,221
+2024-01-03,Ovest,Prodotto A,Mid-Market,84,313.28,14.41,813.48,412
+2024-02-18,Ovest,Prodotto B,Mid-Market,70,12.05,186.83,4149.26,10
+2023-07-27,Est,Prodotto C,Small Business,99,227.1,97.44,3434.91,182
+2024-03-20,Sud,Prodotto B,Mid-Market,62,397.24,139.61,2704.3,691
+2024-04-29,Nord,Prodotto A,Enterprise,37,148.48,214.06,1011.82,752
+2024-03-31,Nord,Prodotto C,Small Business,33,447.18,93.28,247.18,565
+2024-11-18,Est,Prodotto B,Mid-Market,47,24.83,164.85,975.81,958
+2024-11-10,Sud,Prodotto A,Small Business,26,334.14,10.84,3968.45,730
+2023-10-26,Ovest,Prodotto B,Small Business,28,249.61,98.93,309.47,673
+2023-02-14,Centro,Prodotto B,Enterprise,44,166.43,195.58,2768.22,828
+2023-07-07,Nord,Prodotto B,Enterprise,86,147.21,210.27,186.63,505
+2024-01-24,Sud,Prodotto C,Enterprise,1,368.01,232.35,4544.13,79
+2024-10-18,Nord,Prodotto C,Enterprise,32,329.01,31.21,2126.66,428
+2024-08-23,Ovest,Prodotto B,Small Business,76,300.17,224.28,2440.53,214
+2024-01-14,Est,Prodotto D,Small Business,29,452.28,37.14,2311.68,188
+2024-02-02,Centro,Prodotto D,Enterprise,30,380.81,244.47,4308.69,815
+2023-06-30,Ovest,Prodotto D,Mid-Market,69,245.89,214,2892.67,15
+2023-08-17,Nord,Prodotto D,Mid-Market,1,207.71,202.48,967.02,558
+2024-10-03,Sud,Prodotto B,Mid-Market,63,139.74,213.09,3171.48,100
+2023-01-17,Sud,Prodotto B,Small Business,96,151.28,129.4,1129.73,124
+2023-08-16,Est,Prodotto B,Small Business,50,226.93,24.1,2333.88,567
+2023-01-14,Nord,Prodotto B,Mid-Market,7,155.89,66.37,4774.95,341
+2023-03-24,Est,Prodotto A,Small Business,24,35.51,172.67,4483.57,596
+2024-04-27,Centro,Prodotto C,Mid-Market,18,386.72,131.32,4128.38,500
+2024-11-05,Sud,Prodotto C,Small Business,53,236.75,76.63,3851.09,495
+2024-05-31,Est,Prodotto D,Enterprise,77,68.98,79.38,4156.78,138
+2024-05-29,Est,Prodotto A,Small Business,29,296.47,104.17,419.68,293
+2023-05-03,Nord,Prodotto C,Mid-Market,6,157.39,17.89,414.18,764
+2023-03-03,Ovest,Prodotto C,Mid-Market,96,432.33,7.03,2930.32,997
+2024-03-31,Sud,Prodotto C,Mid-Market,92,146.75,86.9,3862.45,716
+2023-05-08,Est,Prodotto C,Enterprise,50,196.73,197.02,1373.4,475
+2024-11-10,Sud,Prodotto B,Mid-Market,89,110.22,155.52,4911.32,383
+2024-06-12,Nord,Prodotto B,Enterprise,73,33.37,127.2,3672.34,923
+2024-01-28,Est,Prodotto A,Mid-Market,99,393.92,117.94,2227.2,820
+2023-04-10,Est,Prodotto C,Enterprise,62,98.26,85.9,3806.93,981
+2023-05-16,Est,Prodotto D,Enterprise,36,89.39,221.52,3679.08,962
+2023-12-20,Nord,Prodotto D,Mid-Market,79,105.34,43.56,3099.95,514
+2024-02-13,Ovest,Prodotto A,Enterprise,2,321.29,165.22,4221.44,880
+2024-04-15,Ovest,Prodotto A,Mid-Market,56,410.43,152.46,1112.85,118
+2023-10-24,Est,Prodotto C,Small Business,4,356.15,209.53,258.69,108
+2023-01-29,Centro,Prodotto A,Small Business,64,466,127.31,3987.52,168
+2024-06-22,Est,Prodotto D,Mid-Market,57,374.14,26.52,3336.69,530
+2024-08-27,Nord,Prodotto D,Small Business,63,450.18,78.5,3840.35,317
+2024-08-19,Ovest,Prodotto A,Mid-Market,94,277.31,233.93,2204.23,519
+2023-03-11,Centro,Prodotto C,Enterprise,69,456.22,70.1,2542.2,757
+2024-10-31,Nord,Prodotto A,Mid-Market,97,342.84,230.89,4545.46,687
+2024-09-16,Est,Prodotto A,Mid-Market,48,30.23,18.9,2277.24,531
+2023-06-13,Nord,Prodotto C,Mid-Market,74,62.73,73.07,2594.73,814
+2024-05-26,Sud,Prodotto C,Mid-Market,59,218.58,9.79,556.23,938
+2023-10-09,Ovest,Prodotto B,Mid-Market,57,331.18,25.3,1903.25,516
+2024-03-03,Sud,Prodotto C,Mid-Market,85,70.54,95.89,2939.95,928
+2024-07-11,Sud,Prodotto B,Small Business,65,124.19,248.24,4840.85,961
+2024-04-16,Est,Prodotto C,Mid-Market,13,306.5,240.26,4710.03,355
+2024-05-21,Est,Prodotto A,Mid-Market,79,180.17,102.95,155.57,525
+2024-11-16,Centro,Prodotto D,Enterprise,41,372.98,241.71,4657.8,388
+2024-08-04,Nord,Prodotto D,Mid-Market,23,290.36,66.98,817.99,99
+2023-02-23,Sud,Prodotto B,Small Business,31,316.51,92.69,628.62,651
+2024-01-18,Est,Prodotto B,Small Business,4,353.89,52.8,4090.75,338
+2023-09-06,Ovest,Prodotto D,Enterprise,77,376,114.09,2131.41,871
+2023-12-03,Centro,Prodotto D,Small Business,82,145.66,178.7,1977.45,181
+2024-01-20,Nord,Prodotto A,Small Business,26,254.84,118.89,317.13,680
+2023-08-01,Nord,Prodotto C,Mid-Market,6,209.91,240.16,294.13,757
+2023-08-01,Sud,Prodotto B,Enterprise,85,291.31,123.58,2958.84,921
+2023-01-08,Ovest,Prodotto A,Mid-Market,44,284.6,60.48,949.55,107
+2024-01-17,Nord,Prodotto A,Small Business,91,485.93,224.64,1639.37,948
+2023-01-01,Centro,Prodotto C,Small Business,3,498.6,141.91,2574.73,958
+2024-07-23,Ovest,Prodotto B,Small Business,92,199.46,38.6,1153.03,820
+2023-12-27,Sud,Prodotto B,Enterprise,40,494.27,64.42,4254.39,622
+2023-05-26,Nord,Prodotto D,Small Business,1,453.88,103.7,4271.35,792
+2023-08-15,Ovest,Prodotto C,Enterprise,99,142.21,111.29,345.11,826
+2023-12-02,Est,Prodotto B,Mid-Market,81,472.73,80.51,2671.61,556
+2024-09-13,Centro,Prodotto B,Small Business,12,299.82,185.71,3704.3,506
+2023-07-01,Ovest,Prodotto C,Enterprise,67,372.41,157.06,2006.96,528
+2023-01-14,Nord,Prodotto A,Enterprise,69,322.6,12.04,3647.62,517
+2024-06-29,Est,Prodotto D,Small Business,74,167.92,31.15,3803.98,390
+2024-02-02,Sud,Prodotto A,Mid-Market,96,466.09,83.33,4754.94,944
+2023-09-19,Est,Prodotto B,Mid-Market,5,346.81,174.71,859.9,821
+2023-12-06,Nord,Prodotto D,Enterprise,94,463.41,207.48,1320.82,730
+2023-07-30,Sud,Prodotto D,Small Business,75,170.18,80.08,1594.55,825
+2024-02-26,Sud,Prodotto A,Small Business,23,246.48,61.1,4532.35,478
+2024-10-08,Est,Prodotto B,Small Business,13,234.61,72.52,1811.23,855
+2024-02-15,Ovest,Prodotto D,Enterprise,46,291.15,10.46,1159.04,905
+2023-04-27,Centro,Prodotto C,Enterprise,56,363.66,132.41,644.94,355
+2023-11-27,Ovest,Prodotto A,Small Business,5,110.6,232.55,4431.76,933
+2023-04-08,Centro,Prodotto C,Enterprise,29,467.47,49.63,3551.13,298
+2023-09-13,Ovest,Prodotto B,Enterprise,24,376.1,164.55,3867.09,984
+2023-10-15,Sud,Prodotto C,Enterprise,36,285.51,46.25,251.73,247
+2023-03-07,Ovest,Prodotto D,Enterprise,51,420.67,44.71,1817.4,606
+2023-02-02,Ovest,Prodotto D,Mid-Market,42,458.97,196.61,3919.44,824
+2023-04-20,Sud,Prodotto C,Small Business,57,199.51,119.15,241.59,476
+2023-01-19,Nord,Prodotto D,Enterprise,22,434.86,208.22,2448.59,376
+2024-01-06,Centro,Prodotto C,Small Business,84,110.27,128.97,4040.5,780
+2024-03-12,Ovest,Prodotto D,Small Business,65,124.15,66.21,380,656
+2023-02-17,Sud,Prodotto D,Small Business,68,128.54,183.67,1068.56,553
+2023-10-02,Nord,Prodotto D,Mid-Market,57,491.35,18.4,2480.66,11
+2023-12-10,Est,Prodotto D,Mid-Market,17,176.11,163.96,4823.53,276
+2023-06-26,Nord,Prodotto A,Small Business,91,175.55,109.84,2377.72,403
+2023-12-05,Ovest,Prodotto C,Mid-Market,21,496.98,185.29,3629.6,581
+2024-05-06,Nord,Prodotto D,Enterprise,1,277.72,154.36,2937.24,617
+2024-01-31,Centro,Prodotto B,Small Business,55,398.73,63.15,2088.9,531
+2023-10-25,Nord,Prodotto C,Small Business,14,391.97,113.1,4761.84,884
+2024-10-08,Centro,Prodotto B,Enterprise,1,189.22,249.91,1643.62,860
+2024-02-26,Ovest,Prodotto A,Enterprise,19,90.12,120.65,805.61,659
+2023-09-10,Ovest,Prodotto C,Mid-Market,96,320.63,52.14,4578.13,852
+2024-06-17,Centro,Prodotto D,Enterprise,54,204.93,40,930.52,989
+2024-11-15,Ovest,Prodotto B,Small Business,64,486.42,89.06,3422.7,956
+2024-11-08,Ovest,Prodotto D,Enterprise,34,110.14,110.33,272.4,684
+2024-02-21,Sud,Prodotto C,Small Business,30,411.99,93.67,4759.85,505
+2023-05-28,Centro,Prodotto B,Mid-Market,47,425,40.14,936.49,786
+2023-01-17,Nord,Prodotto D,Enterprise,62,442.35,178.57,640.53,175
+2023-07-07,Est,Prodotto B,Enterprise,36,227.33,88.27,1389.78,703
+2023-11-30,Ovest,Prodotto B,Enterprise,65,369.05,131.28,1343.31,23
+2024-01-08,Nord,Prodotto A,Mid-Market,22,228.04,36.57,3572.78,541
+2023-04-11,Est,Prodotto A,Mid-Market,90,151.28,12.22,2156.81,38
+2024-02-28,Est,Prodotto D,Enterprise,3,116.73,205.68,1340.03,240
+2024-08-16,Nord,Prodotto A,Small Business,82,464.63,196.54,3629.81,24
+2023-05-04,Nord,Prodotto C,Mid-Market,27,111.14,199.87,4459.77,453
+2023-12-17,Nord,Prodotto D,Mid-Market,68,130.69,77.24,4228.54,357
+2024-03-08,Est,Prodotto D,Enterprise,74,183.51,221.68,2851.62,706
+2023-10-03,Nord,Prodotto B,Mid-Market,58,216.66,101.34,2398.56,837
+2024-04-25,Sud,Prodotto A,Enterprise,75,439.84,198.42,2030.08,891
+2023-07-11,Ovest,Prodotto C,Small Business,33,197.97,113.56,173.56,268
+2024-09-05,Ovest,Prodotto C,Small Business,52,335.35,133.44,4224.16,415
+2023-02-16,Ovest,Prodotto C,Enterprise,39,465.22,30.2,1179.11,252
+2024-07-06,Centro,Prodotto A,Small Business,44,431.1,103.25,3976.67,665
+2023-08-05,Nord,Prodotto A,Enterprise,80,462.15,246.79,1780.27,509
+2023-01-30,Ovest,Prodotto A,Enterprise,90,42.95,126.84,3443.25,544
+2024-05-21,Ovest,Prodotto A,Small Business,7,350.09,33.65,2039.15,561
+2023-12-01,Est,Prodotto C,Mid-Market,49,359.49,196.54,4463.12,97
+2023-05-30,Sud,Prodotto C,Small Business,72,405.96,158.52,1481.73,368
+2024-07-17,Centro,Prodotto C,Enterprise,42,56.09,217.64,3820.58,605
+2024-09-25,Centro,Prodotto B,Mid-Market,97,466.01,196.7,2646.72,413
+2023-02-19,Est,Prodotto C,Small Business,40,407.19,68.06,1155.99,699
+2024-02-12,Ovest,Prodotto B,Small Business,7,366.7,184.83,1406.71,56
+2023-09-10,Centro,Prodotto B,Mid-Market,9,342.09,161.73,1334.09,295
+2023-09-23,Nord,Prodotto C,Small Business,66,325.02,106.63,4450.96,589
+2023-06-01,Sud,Prodotto B,Mid-Market,50,298.06,206.04,879.86,135
+2024-10-09,Est,Prodotto B,Small Business,51,282.27,103.54,1339.55,580
+2024-04-15,Ovest,Prodotto B,Mid-Market,12,235.1,233.3,1724.31,523
+2023-05-09,Sud,Prodotto B,Small Business,55,425.2,166.92,2318.03,804
+2024-07-30,Est,Prodotto A,Small Business,92,223.78,136.47,4560.74,677
+2024-10-12,Centro,Prodotto A,Mid-Market,71,255.83,80.24,2874.04,720
+2023-05-11,Est,Prodotto B,Small Business,73,298.25,24.83,1093,199
+2023-10-18,Sud,Prodotto A,Small Business,42,275.33,56.18,4877.78,29
+2023-01-07,Ovest,Prodotto A,Mid-Market,85,296.47,155.68,3909.46,592
+2023-03-12,Centro,Prodotto C,Small Business,35,54.86,127.59,829.94,604
+2023-02-01,Centro,Prodotto A,Small Business,92,228.55,22.65,3985.63,23
+2024-08-28,Est,Prodotto C,Enterprise,53,102.23,109.9,1948.8,999
+2023-07-31,Centro,Prodotto D,Mid-Market,53,98.58,223.91,1374.13,893
+2024-04-18,Est,Prodotto D,Mid-Market,74,240.38,249.85,2379.1,854
+2024-03-22,Nord,Prodotto D,Small Business,43,427.48,164.18,4268.9,190
+2023-11-04,Nord,Prodotto D,Mid-Market,21,43.59,151.67,2680.01,416
+2023-07-01,Centro,Prodotto C,Small Business,47,135.01,169.87,2815.48,587
+2023-10-10,Ovest,Prodotto C,Mid-Market,70,451.08,59.03,4149.37,898
+2023-02-28,Ovest,Prodotto A,Enterprise,75,349.72,26.44,1938.59,865
+2024-04-16,Sud,Prodotto A,Enterprise,83,355.31,205.24,2777.73,742
+2024-06-12,Sud,Prodotto B,Mid-Market,39,345.92,76.37,1831.58,845
+2024-04-25,Est,Prodotto C,Mid-Market,73,499.09,187.62,188.17,509
+2024-02-29,Centro,Prodotto D,Mid-Market,66,488.39,40.22,2169.6,505
+2023-11-27,Ovest,Prodotto D,Mid-Market,42,150.26,126.59,2367.97,480
+2023-12-15,Ovest,Prodotto A,Small Business,27,486.8,45.43,1526.61,456
+2024-06-06,Sud,Prodotto A,Small Business,33,188.82,236.08,800.46,236
+2024-02-01,Sud,Prodotto A,Mid-Market,57,439.05,127.95,750.79,824
+2024-08-13,Ovest,Prodotto A,Small Business,33,374.37,27.59,2144.62,408
+2023-12-10,Nord,Prodotto D,Enterprise,52,58.93,162.12,4619.07,720
+2024-02-10,Est,Prodotto C,Mid-Market,44,179.37,176.78,923.55,958
+2023-03-18,Centro,Prodotto A,Enterprise,16,476.57,72.05,3038.37,621
+2023-10-07,Centro,Prodotto A,Enterprise,81,133.51,19.82,1260.64,930
+2024-07-26,Ovest,Prodotto D,Small Business,30,54.12,20.35,2493.04,260
+2024-01-16,Nord,Prodotto A,Mid-Market,10,65.76,211,3827.23,969
+2023-11-11,Est,Prodotto D,Small Business,16,385.24,246.48,610.71,252
+2024-03-07,Nord,Prodotto D,Enterprise,76,433.37,199.7,707.87,190
+2023-03-23,Est,Prodotto C,Mid-Market,97,377.33,61.52,4600.26,101
+2023-11-03,Ovest,Prodotto C,Small Business,68,424.68,201.29,877.94,536
+2023-12-09,Nord,Prodotto D,Small Business,88,187.05,51.99,4641.3,91
+2024-06-11,Est,Prodotto D,Enterprise,82,231.91,61.93,3611.99,757
+2023-06-07,Ovest,Prodotto B,Mid-Market,18,198.29,59.7,913.05,668
+2023-02-25,Sud,Prodotto D,Mid-Market,19,117.91,34.55,4451.53,27
+2024-07-07,Sud,Prodotto C,Mid-Market,15,289.94,11.14,3256.76,482
+2023-11-14,Centro,Prodotto A,Small Business,79,409.73,246.24,2430.45,151
+2023-02-07,Sud,Prodotto A,Small Business,76,378.14,14.83,4872.23,823
+2023-07-08,Est,Prodotto A,Small Business,17,44.94,37.85,2177.01,991
+2024-02-26,Sud,Prodotto C,Small Business,73,44.86,26.19,4317.65,697
+2023-03-04,Sud,Prodotto A,Enterprise,88,232.83,43.42,3084.12,778
+2023-10-30,Est,Prodotto D,Mid-Market,30,189.39,182.5,381.2,486
+2024-07-13,Sud,Prodotto A,Small Business,16,145.49,46.15,1063.49,125
+2023-08-10,Nord,Prodotto D,Small Business,75,415.26,199.32,3192.99,822
+2023-04-21,Sud,Prodotto D,Enterprise,21,65.87,66.02,3691.71,58
+2023-11-29,Sud,Prodotto A,Small Business,42,435.21,97.64,1975.32,876
+2024-04-27,Ovest,Prodotto B,Enterprise,37,156.84,26.76,3600.51,243
+2024-09-22,Sud,Prodotto D,Enterprise,68,54.95,168.87,1861.73,812
+2024-09-20,Nord,Prodotto C,Mid-Market,81,385.73,90.48,4467.52,416
+2023-08-16,Nord,Prodotto A,Mid-Market,79,138.64,104.69,3328.49,875
+2024-04-24,Est,Prodotto C,Enterprise,3,72.37,150.31,3047.98,265
+2024-10-17,Sud,Prodotto C,Small Business,75,175.67,148.46,4437.6,645
+2024-02-24,Ovest,Prodotto C,Enterprise,85,447.76,125.19,711.76,625
+2024-04-11,Est,Prodotto C,Small Business,59,131.85,140.01,4993.07,482
+2024-01-05,Ovest,Prodotto C,Small Business,35,460.04,76.83,1220.38,895
+2024-02-25,Sud,Prodotto B,Enterprise,91,90.87,151.75,3589.38,891
+2024-02-18,Sud,Prodotto C,Mid-Market,20,350.73,63.9,2652.38,233
+2023-01-12,Nord,Prodotto C,Small Business,11,314,30.55,537.73,464
+2024-04-07,Est,Prodotto B,Small Business,20,119.25,59.26,3127.78,419
+2024-09-08,Nord,Prodotto C,Small Business,80,39.44,12.83,1212.68,430
+2023-10-04,Ovest,Prodotto A,Small Business,54,483.09,111.38,2091.03,184
+2024-04-13,Nord,Prodotto D,Mid-Market,72,251.16,224.9,1512.44,922
+2024-09-20,Nord,Prodotto A,Small Business,96,454.16,188.67,981.21,863
+2023-10-29,Nord,Prodotto C,Mid-Market,31,72.04,216.21,2568.06,719
+2023-02-17,Centro,Prodotto A,Enterprise,41,226.36,195.55,3891.08,939
+2023-04-15,Ovest,Prodotto A,Enterprise,35,98.14,5.12,1296.28,602
+2023-12-20,Nord,Prodotto C,Enterprise,15,56.11,63.4,3374.45,616
+2023-04-29,Est,Prodotto C,Enterprise,98,275.77,136.6,1543.03,185
+2024-05-24,Sud,Prodotto A,Small Business,2,60.07,248.5,690.19,842
+2023-03-22,Est,Prodotto A,Enterprise,14,277.5,174.35,2856.49,263
+2024-08-24,Est,Prodotto B,Enterprise,67,391.58,231.03,4582.57,467
+2023-06-23,Est,Prodotto A,Mid-Market,80,179.92,249.55,3479.68,534
+2024-09-26,Ovest,Prodotto B,Enterprise,57,79.8,244.85,713.67,304
+2023-07-30,Nord,Prodotto A,Mid-Market,1,158.65,112.08,3596.89,280
+2024-07-05,Centro,Prodotto B,Enterprise,52,482.93,10.03,1502.77,936
+2024-10-26,Sud,Prodotto C,Enterprise,75,295.1,103.56,1127.43,359
+2023-09-11,Sud,Prodotto C,Small Business,5,481.28,209.77,3416.47,868
+2023-05-22,Centro,Prodotto D,Small Business,37,283.06,46.42,3952.5,985
+2024-03-28,Nord,Prodotto B,Mid-Market,80,275.88,14.76,1807.19,952
+2024-05-26,Est,Prodotto B,Enterprise,36,294.61,33.77,4069.86,609
+2024-11-06,Est,Prodotto B,Enterprise,12,36.12,122.13,3314.46,346
+2023-11-10,Centro,Prodotto A,Mid-Market,89,292.38,61.86,4003.38,654
+2023-11-02,Est,Prodotto C,Mid-Market,84,308.48,186.48,2160.39,909
+2023-12-15,Nord,Prodotto D,Small Business,27,488.48,85.3,3092.99,190
+2023-03-07,Est,Prodotto A,Enterprise,63,163.38,107.1,2224.75,470
+2024-10-16,Est,Prodotto C,Small Business,93,52.99,201.91,3524.37,502
+2023-05-06,Ovest,Prodotto C,Mid-Market,64,391.73,206.12,3856.82,512
+2023-01-05,Sud,Prodotto D,Small Business,73,280.08,148.45,4688.82,443
+2023-07-27,Est,Prodotto B,Enterprise,67,262.49,159.73,2265.3,478
+2024-10-22,Centro,Prodotto B,Mid-Market,44,222.23,194,3957.46,690
+2024-08-27,Est,Prodotto C,Small Business,60,276.16,105.03,4289.29,87
+2023-03-19,Ovest,Prodotto C,Enterprise,88,464.26,130.44,4326.24,200
+2024-09-25,Nord,Prodotto A,Small Business,92,223.16,14.86,4802.67,996
+2024-06-07,Centro,Prodotto B,Enterprise,33,110.94,87.3,320.91,306
+2023-01-07,Nord,Prodotto A,Mid-Market,28,222.96,118.26,3044.94,458
+2024-10-10,Nord,Prodotto C,Enterprise,86,378.39,23.18,695.01,355
+2024-01-23,Sud,Prodotto B,Mid-Market,48,135.12,11.06,4920.44,878
+2023-06-19,Est,Prodotto B,Small Business,70,261.09,72.74,3560.88,858
+2023-02-21,Sud,Prodotto D,Enterprise,63,352.49,75.96,3825.82,765
+2024-09-08,Ovest,Prodotto C,Small Business,64,259.45,42.61,1470.5,846
+2024-03-25,Nord,Prodotto B,Small Business,69,196.68,137.53,1900.8,463
+2023-12-15,Ovest,Prodotto A,Enterprise,81,332.33,126.26,2819.63,171
+2023-11-11,Ovest,Prodotto C,Small Business,29,173.47,15.59,2472.53,65
+2023-10-03,Centro,Prodotto C,Small Business,90,56.69,126.25,3066.77,753
+2023-01-18,Centro,Prodotto B,Enterprise,68,157.2,148.36,2175.14,696
+2023-10-22,Sud,Prodotto A,Enterprise,52,282.47,29.27,4011.53,895
+2023-12-18,Centro,Prodotto B,Enterprise,13,346.99,128.08,1967.71,960
+2023-05-21,Sud,Prodotto D,Mid-Market,50,272.89,225.58,3500.65,42
+2024-04-15,Sud,Prodotto B,Small Business,86,55.24,83.86,4816.55,864
+2024-09-23,Est,Prodotto D,Mid-Market,16,483.9,95.83,1546.37,596
+2024-01-09,Est,Prodotto A,Mid-Market,9,347,240.57,2108.98,691
+2023-05-15,Est,Prodotto C,Enterprise,43,319.48,55.02,4845.09,384
+2023-07-10,Ovest,Prodotto D,Small Business,53,245.97,152.34,4503.4,706
+2023-03-02,Sud,Prodotto B,Mid-Market,68,200.43,132.3,3507.42,713
+2024-06-24,Sud,Prodotto A,Mid-Market,50,483.46,135.8,919.46,270
+2024-08-03,Centro,Prodotto D,Small Business,21,106.93,237.84,3422.98,60
+2024-08-13,Est,Prodotto D,Mid-Market,40,109.07,93.79,1397.1,706
+2024-01-02,Nord,Prodotto A,Enterprise,69,166.4,62.51,1733.02,122
+2024-01-21,Ovest,Prodotto D,Enterprise,43,379.29,142.53,1718.56,242
+2023-09-13,Nord,Prodotto C,Mid-Market,58,312.22,59.24,4788.95,876
+2023-04-24,Centro,Prodotto A,Enterprise,94,263.37,84.59,297.06,519
+2024-06-03,Ovest,Prodotto D,Mid-Market,58,271.16,202.54,2319.32,392
+2023-07-14,Ovest,Prodotto C,Enterprise,53,184.4,18.26,3888.1,860
+2024-04-13,Ovest,Prodotto C,Enterprise,35,139.13,40.67,4355.79,190
+2023-09-18,Sud,Prodotto C,Mid-Market,90,77.43,108.81,3944.57,780
+2024-07-11,Est,Prodotto A,Small Business,17,469.32,137.71,1581.1,127
+2023-05-18,Sud,Prodotto D,Mid-Market,22,295.69,75.78,2899.51,583
+2023-06-11,Sud,Prodotto D,Mid-Market,82,473.7,194.9,4870.21,928
+2024-03-27,Ovest,Prodotto C,Enterprise,85,28.92,78.76,2210.16,10
+2024-02-06,Sud,Prodotto B,Small Business,32,363.76,6.09,3004.53,871
+2023-03-12,Sud,Prodotto C,Small Business,22,169.1,18.38,3895.94,694
+2023-07-08,Ovest,Prodotto D,Small Business,21,121.77,7.12,1801.15,400
+2023-12-22,Centro,Prodotto C,Small Business,30,359.5,140.94,749.74,510
+2023-09-21,Centro,Prodotto B,Mid-Market,55,343.17,39.23,2117.6,285
+2024-07-29,Ovest,Prodotto D,Enterprise,51,47.96,11.28,4945.05,883
+2024-07-18,Est,Prodotto B,Small Business,25,244.05,149.6,880.24,936
+2024-08-12,Est,Prodotto C,Mid-Market,90,84.81,145.04,280.34,980
+2023-07-05,Centro,Prodotto B,Mid-Market,98,187.5,168.19,2655.4,863
+2024-09-19,Ovest,Prodotto A,Enterprise,86,230.16,59.12,1281.12,265
+2023-11-15,Centro,Prodotto D,Small Business,23,404.42,7.5,1128.46,28
+2023-09-15,Nord,Prodotto A,Mid-Market,88,307.93,128.8,3968.25,871
+2023-06-17,Est,Prodotto C,Mid-Market,15,266.46,40.43,1278.74,478
+2023-06-02,Est,Prodotto C,Mid-Market,29,25.94,149.16,1636.9,252
+2024-04-27,Centro,Prodotto C,Mid-Market,2,444.63,203.02,1366.33,870
+2024-09-09,Sud,Prodotto C,Mid-Market,49,412.08,67.51,4168.31,89
+2024-09-24,Nord,Prodotto A,Mid-Market,35,153.62,137.41,408.45,456
+2023-02-23,Sud,Prodotto C,Mid-Market,41,129.43,77.59,2339.97,806
+2024-11-22,Ovest,Prodotto C,Mid-Market,27,214.39,177.4,3140.46,447
+2024-09-26,Centro,Prodotto D,Small Business,39,160.77,242.86,222.05,601
+2023-02-08,Sud,Prodotto D,Enterprise,57,91.36,215.64,1665.04,746
+2024-11-24,Ovest,Prodotto D,Enterprise,20,160.76,245.66,2432.44,404
+2024-09-20,Centro,Prodotto C,Small Business,26,457.37,123.73,4061.3,687
+2024-02-22,Est,Prodotto A,Enterprise,55,293.75,82.78,1207.28,245
+2024-03-09,Centro,Prodotto A,Small Business,31,192.59,27.38,4009.17,732
+2024-02-01,Nord,Prodotto A,Small Business,64,435.42,7.13,2060.12,95
+2023-09-26,Sud,Prodotto A,Small Business,49,172.38,130.73,3224.79,952
+2024-06-16,Est,Prodotto C,Mid-Market,44,61.26,76.47,2406,65
+2024-10-31,Sud,Prodotto A,Enterprise,70,270.42,94.53,4292.32,412
+2023-10-29,Ovest,Prodotto D,Small Business,62,386.21,50.51,884.61,606
+2024-10-15,Centro,Prodotto B,Enterprise,64,70.39,93.22,474.87,794
+2024-05-18,Est,Prodotto C,Small Business,89,252.21,132.54,2829.87,37
+2024-08-18,Centro,Prodotto B,Mid-Market,47,451.79,237.46,4076.45,141
+2023-12-15,Centro,Prodotto D,Small Business,81,111.41,230.11,170.88,710
+2024-01-20,Centro,Prodotto B,Enterprise,13,386.22,164.8,4075.06,212
+2023-02-16,Est,Prodotto B,Mid-Market,84,224.58,146.56,1429.1,460
+2024-05-12,Centro,Prodotto B,Small Business,33,127.4,172.26,3606.24,981
+2024-11-22,Sud,Prodotto D,Enterprise,46,481.13,43.93,1100.39,50
+2023-01-09,Centro,Prodotto A,Mid-Market,18,89.69,117.64,4556.87,752
+2023-10-20,Sud,Prodotto B,Mid-Market,23,215.6,92.53,4126.75,764
+2023-05-07,Ovest,Prodotto B,Mid-Market,86,203.1,190.7,342.58,951
+2024-05-24,Ovest,Prodotto C,Mid-Market,82,384.57,212,638.31,181
+2024-03-28,Sud,Prodotto A,Mid-Market,25,128.61,61.8,3471.06,649
+2024-07-22,Nord,Prodotto A,Enterprise,79,255.68,195.22,2517.09,662
+2023-06-22,Est,Prodotto D,Mid-Market,41,101.84,172.89,2843.37,146
+2024-04-07,Nord,Prodotto C,Small Business,37,157.09,43.15,1087.38,164
+2024-09-09,Centro,Prodotto B,Enterprise,44,97.28,88.73,1838.5,714
+2023-03-13,Ovest,Prodotto D,Mid-Market,76,116.58,197.16,189.43,421
+2023-04-18,Est,Prodotto A,Mid-Market,71,422.8,212.52,4135.54,265
+2023-11-16,Est,Prodotto D,Mid-Market,9,359.92,213.7,2866.52,907
+2024-06-15,Sud,Prodotto B,Enterprise,98,389.75,111.92,1564.03,337
+2023-06-24,Nord,Prodotto C,Enterprise,81,246.46,93.2,1158.78,954
+2023-03-14,Est,Prodotto B,Mid-Market,43,364.05,216.09,1754.44,823
+2023-08-10,Sud,Prodotto C,Small Business,72,450.65,116.54,4652.55,715
+2024-06-15,Centro,Prodotto B,Enterprise,26,462.83,154.37,4665.19,533
+2024-11-16,Nord,Prodotto A,Mid-Market,52,473.47,190.31,4353.85,442
+2024-01-02,Ovest,Prodotto A,Small Business,4,234.4,12.57,963.28,958
+2023-10-11,Est,Prodotto D,Small Business,15,235.85,118.73,3749.93,598
+2024-05-22,Est,Prodotto B,Mid-Market,71,219.14,107.74,3852.81,950
+2023-01-08,Sud,Prodotto B,Small Business,30,431.68,115.03,3122.38,531
+2024-01-15,Centro,Prodotto A,Mid-Market,29,270.44,5.65,985.16,197
+2023-05-16,Nord,Prodotto C,Enterprise,63,434.39,223.76,999.44,734
+2024-06-17,Est,Prodotto B,Mid-Market,84,325.47,173.22,4639.09,220
+2024-05-13,Ovest,Prodotto C,Small Business,3,498.59,227.23,4842.19,187
+2023-06-09,Centro,Prodotto D,Enterprise,29,339.44,146.19,2038.89,57
+2024-02-07,Sud,Prodotto C,Enterprise,90,159.59,95.71,3530.48,693
+2023-01-16,Sud,Prodotto D,Small Business,89,150.33,145.79,196.17,368
+2023-03-11,Centro,Prodotto C,Small Business,35,494.21,67.73,522.67,134
+2024-06-13,Nord,Prodotto C,Enterprise,81,74.54,137.2,4781.1,25
+2023-08-06,Sud,Prodotto C,Mid-Market,37,59.43,169.06,3852.24,835
+2024-07-16,Est,Prodotto A,Small Business,76,247.92,249.97,852.23,138
+2023-07-14,Nord,Prodotto B,Mid-Market,46,302.54,79.59,1163.47,366
+2024-04-06,Nord,Prodotto B,Enterprise,65,321.15,22.99,4993.7,666
+2023-09-05,Nord,Prodotto D,Mid-Market,63,27.23,98.15,4252.72,502
+2024-07-11,Sud,Prodotto D,Small Business,23,484.28,14.17,3581.11,363
+2023-11-11,Centro,Prodotto A,Small Business,74,123.29,243.5,822.15,583
+2024-02-08,Sud,Prodotto A,Enterprise,49,266.85,154.91,2125.64,841
+2024-06-13,Ovest,Prodotto B,Enterprise,54,276.56,68.04,603.55,297
+2024-05-08,Sud,Prodotto B,Enterprise,27,287.05,151.57,3416.53,184
+2023-12-04,Est,Prodotto B,Enterprise,53,283.93,68.24,311.86,988
+2023-05-22,Ovest,Prodotto A,Mid-Market,33,398.39,40.2,3459.84,600
+2024-10-05,Est,Prodotto C,Small Business,6,22.82,128.44,454.12,605
+2023-01-24,Sud,Prodotto B,Mid-Market,74,417.77,8.72,1390.47,321
+2023-05-13,Ovest,Prodotto C,Enterprise,55,459.86,203.4,2030.51,418
+2023-02-15,Sud,Prodotto D,Mid-Market,43,65.9,107.45,4434.44,962
+2023-12-31,Nord,Prodotto B,Small Business,3,176.6,9.67,4294.93,542
+2023-12-28,Nord,Prodotto C,Mid-Market,82,18.29,238.8,2289.47,33
+2024-05-02,Ovest,Prodotto C,Small Business,67,495.04,216.43,1998.25,430
+2024-08-29,Centro,Prodotto A,Mid-Market,22,76.36,218.78,3265.06,184
+2024-03-15,Ovest,Prodotto B,Enterprise,88,463.33,177.46,2272.69,558
+2023-07-14,Est,Prodotto C,Small Business,85,289.3,68.82,1615.97,842
+2024-06-18,Ovest,Prodotto D,Mid-Market,16,375.05,168.91,4786.1,496
+2024-03-20,Sud,Prodotto C,Mid-Market,35,354.25,211.88,2734.18,971
+2024-01-13,Est,Prodotto B,Small Business,10,434.53,163.78,3883.82,525
+2024-07-26,Est,Prodotto B,Enterprise,9,358.67,181.53,801.07,561
+2024-11-09,Ovest,Prodotto B,Small Business,43,185.22,166.93,2414.34,684
+2023-07-24,Est,Prodotto C,Enterprise,46,402.11,139.45,4041.36,549
+2024-03-18,Ovest,Prodotto C,Enterprise,92,207.32,160.73,914.25,838
+2023-01-11,Ovest,Prodotto A,Enterprise,64,386.06,57.25,449.23,375
+2024-06-04,Centro,Prodotto D,Enterprise,66,86.76,93.02,1309.45,313
+2023-01-30,Centro,Prodotto A,Enterprise,88,392.25,150.21,650.78,70
+2023-12-18,Centro,Prodotto B,Enterprise,50,277.81,185.54,2805.74,395
+2023-04-29,Centro,Prodotto A,Enterprise,60,119.38,136.96,4860.34,952
+2023-10-02,Est,Prodotto A,Small Business,34,135.33,171.55,3909.62,51
+2024-05-04,Ovest,Prodotto A,Small Business,50,172.62,73.82,2306.84,947
